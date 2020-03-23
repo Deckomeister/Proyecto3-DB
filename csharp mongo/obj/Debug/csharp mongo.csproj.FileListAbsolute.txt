@@ -1,0 +1,22 @@
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\csharp mongo.exe.config
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\csharp mongo.exe
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\csharp mongo.pdb
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\DnsClient.dll
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\EasyMongo.dll
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\MongoDB.Bson.dll
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\MongoDB.Driver.dll
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\MongoDB.Driver.Legacy.dll
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\System.Buffers.dll
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\DnsClient.xml
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\MongoDB.Driver.xml
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\MongoDB.Driver.Legacy.xml
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\bin\Debug\System.Buffers.xml
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\obj\Debug\csharp mongo.csprojResolveAssemblyReference.cache
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\obj\Debug\csharp_mongo.Form1.resources
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\obj\Debug\csharp_mongo.Inicio.resources
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\obj\Debug\csharp_mongo.Inicio2.resources
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\obj\Debug\csharp_mongo.Properties.Resources.resources
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\obj\Debug\csharp mongo.csproj.GenerateResource.Cache
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\obj\Debug\csharp mongo.exe
+c:\users\ceslusbel\documents\visual studio 2015\Projects\csharp mongo\csharp mongo\obj\Debug\csharp mongo.pdb
